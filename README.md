@@ -6,12 +6,12 @@ A work-life-balance checker with support for:
 - build life-changing habits for long-term success with positive emotion
 - lift up your life with no extra stress
 
-# Table of contents
+## Table of contents
 
-# How to use
+## How to use
 
-# External Contibutions
+## External Contibutions
 
-# License
+## License
 
 irea.wlb-cheker is See the LICENSE for datails.
