@@ -1,5 +1,5 @@
 # irea.wlb-checker
-___
+
 A work-life-balance checker with support for:
 
 - balance time in all life sectors
